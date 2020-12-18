@@ -17,3 +17,11 @@ of the queens could capture any other. Note that queens can move orthogonally
 or diagonally in any direction. We should implement a function called solve()
 that when called, it prints the first solution of the puzzle and then it waits 
 for input. Once the user presses “enter”, the next solution is printed and so on.
+
+Coursework #4: OOP_Ex04
+
+This exercise is about object oriented programming in Python. The task was
+to use objects to implement a representation of Boolean expressions which can
+be printed and evaluated. On top of this, a method to
+produce truth tables and a tautology checker which determines whether the
+expression is true for every assignment of truth values was implemented.
